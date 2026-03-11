@@ -24,6 +24,8 @@
 }
 
 .body-main {
+    overflow: hidden; 
+    height: 100%;
     margin: 0;
     padding: 0;
     width: 100vw;
@@ -180,6 +182,7 @@
         border-radius: 12px;
     }
 }
+
 
 
 
