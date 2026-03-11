@@ -102,8 +102,6 @@
     cursor: pointer;
     color: black;
     z-index: 10000;
-    -moz-box-shadow: inset 1px 1px 5px #848484;
-    -webkit-box-shadow: inset 1px 1px 5px #848484;
 }
 
 #constitution-panel {
@@ -118,8 +116,8 @@
     flex-direction: column;
     gap: 16px;
     z-index: 10;
-    background-color: turquoise;
-    border: 3px solid turquoise;
+  background-color: rgb(39, 150, 139);
+    border: 3px solid rgb(39, 150, 139);
     border-radius: 4px;
 }
 
@@ -181,3 +179,4 @@
         border-radius: 12px;
     }
 }
+
